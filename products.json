@@ -1,0 +1,254 @@
+[
+    {
+        "id": 1,
+        "name":" Ruffle Shirt",
+        "price": 1664,
+        "image": "img/product-01.jpg"
+    },
+    {
+        "id": 2,
+        "name":" Plain Shirt & Trouser",
+        "price": 3531,
+        "image": "img/product-02.jpg"
+    },
+    {
+        "id": 3,
+        "name":" Check Short Sleeve",
+        "price": 2550,
+        "image": "img/product-03.jpg"
+    },
+    {
+        "id": 4,
+        "name":" Classic Trench Coat",
+        "price": 7500,
+        "image": "img/product-04.jpg"
+    },
+    {
+        "id": 5,
+        "name":" Mini Skirt & Jean top",
+        "price": 3475,
+        "image": "img/product-05.jpg"
+    },
+    {
+        "id": 6,
+        "name":" Vintage Watch",
+        "price": 9320,
+        "image": "img/product-06.jpg"
+    },
+    {
+        "id": 7,
+        "name":" Stretch Cotton Coat",
+        "price": 5266,
+        "image": "img/product-07.jpg"
+    },
+    {
+        "id": 8,
+        "name":" Pilmsolls All-star",
+        "price": 7600,
+        "image": "img/product-09.jpg"
+    },
+    {
+        "id": 9,
+        "name": " Stripe T-shirt",
+        "price": 2585,
+        "image":"img/product-10.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Checked Long-skeeve",
+        "price": 6316,
+        "image": "img/product-11.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Brown Belt",
+        "price": 585,
+        "image": "img/product-12.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Classic T-shirt",
+        "price": 1849,
+        "image": "img/product-13.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Belly Top",
+        "price": 5479,
+        "image": "img/product-14.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Silver Watch",
+        "price": 8685,
+        "image": "img/product-15.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Hat",
+        "price": 6023,
+        "image": "img/portrait-young-handsome-male.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Brown Flat & Polover",
+        "price": 10501,
+        "image": "img/autumn-person-with-beautiful-hat.jpg"
+    },
+    {
+        "id": 17,
+        "name": "Harshall Product",
+        "price": 4466,
+        "image": "img/product-08.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Pink Talon",
+        "price": 2550,
+        "image": "img/shoe-1.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Woman Timberland",
+        "price": 3016,
+        "image": "img/shoe-2.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Brown Talon",
+        "price": 3550,
+        "image": "img/shoe-3.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Red Talon",
+        "price": 4050,
+        "image": "img/shoe-4.jpg"
+    },
+    {
+        "id": 22,
+        "name": "White Tenis",
+        "price": 2430,
+        "image": "img/shoe-5.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Brown Nike Tenis",
+        "price": 2000,
+        "image": "img/shoe-6.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Blue Jordan",
+        "price": 2250,
+        "image": "img/shoe-9.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Classic Tenis",
+        "price": 2850,
+        "image": "img/shoe-11.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Brown Pair",
+        "price": 10599,
+        "image": "img/shoe-8.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Brown High Tenis",
+        "price": 9895,
+        "image": "img/shoe-7.jpg"
+    },
+    {
+        "id": 28,
+        "name": "High Piontinini",
+        "price": 8985,
+        "image": "img/shoe-10.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Low Piontinini",
+        "price": 6099,
+        "image": "img/shoe-12.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Harshall Product",
+        "price": 1150,
+        "image": "img/bag-5.jpg"
+    },
+    {
+        "id": 31,
+        "name": "Harshall Product",
+        "price": 1350,
+        "image": "img/bag-8.jpg"
+    },
+    {
+        "id": 32,
+        "name": "Harshall Product",
+        "price": 1564,
+        "image": "img/bag-12.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Harshall Product",
+        "price": 1750,
+        "image": "img/bag-10.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Harshall Product",
+        "price": 1950,
+        "image": "img/bag-6.jpg"
+    },
+    {
+        "id": 35,
+        "name": "Harshall Product",
+        "price": 2150,
+        "image": "img/bag-11.jpg"
+    },
+    {
+        "id": 36,
+        "name": "Harshall Product",
+        "price": 2364,
+        "image": "img/bag-4.avif"
+    },
+    {
+        "id": 37,
+        "name": "Harshall Product",
+        "price": 2550,
+        "image": "img/bag-3.avif"
+    },
+    {
+        "id": 38,
+        "name": "Harshall Product",
+        "price": 2750,
+        "image": "img/bag-1.avif"
+    },
+    {
+        "id": 39,
+        "name": "Harshall Product",
+        "price": 2950,
+        "image": "img/bag-2.avif"
+    },
+    {
+        "id": 40,
+        "name": "Black Silver Watch",
+        "price": 3388,
+        "image": "img/watch-2.jpg"
+    },
+    {
+        "id": 41,
+        "name": "Gold Watch",
+        "price": 3020,
+        "image": "img/watch-1.jpg"
+    },
+    {
+        "id": 42,
+        "name": "Silver Watch",
+        "price": 3654,
+        "image": "img/watch-3.jpg"
+    }
+]
