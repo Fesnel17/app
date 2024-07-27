@@ -5,8 +5,12 @@ let iconCart = document.querySelector('.icon-cart');
 let iconCartSpan = document.querySelector('.icon-cart span');
 let body = document.querySelector('body');
 let closeCart = document.querySelector('.close');
+let checkOut = document.querySelector('checkOut');
 let products = [];
 let cart = [];
+
+
+// window load js scripts
 
     window.onscroll = function () {
         scrollFunction();
@@ -27,14 +31,16 @@ let cart = [];
         document.documentElement.scrollTop = 0;
     }
 
-    // shopping cart functionality 
-    
+    // shopping cart functionality
+
     iconCart.addEventListener('click', () => {
         body.classList.toggle('showCart');
     })
     closeCart.addEventListener('click', () => {
         body.classList.toggle('showCart');
     })
+
+
     
         const addDataToHTML = () => {
         // remove datas default from HTML
